@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+
+*{
+	font-family: 'Reggae One', cursive;
+}
+
+span{
+	color: rgba(0,0,0,0.5);
+}
