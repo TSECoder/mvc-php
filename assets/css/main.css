@@ -3,7 +3,9 @@
 *{
 	font-family: 'Reggae One', cursive;
 }
-
+a{
+	text-decoration: none;
+}
 span{
 	color: rgba(0,0,0,0.5);
 }

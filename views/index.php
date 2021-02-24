@@ -25,9 +25,11 @@
         </div>
     </div>
 	
-	<div class="container">
+	<div class="container text-center">
 		<div class="row">
 			<div class="col-12">
+				<hr>
+					<a href="https://github.com/TSECoder/mvc-php" title="GitHub|TSECoder|MVC-PHP" target="_blank">GitHub</a>
 				<hr>
 			</div>
 		</div>
